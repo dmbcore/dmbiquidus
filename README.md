@@ -36,7 +36,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/TokenOfDigitalMoneyDev/DMBiquidus explorer
+    git clone https://github.com/dmbcore/dmbiquidus explorer
 
 ### Install node modules
 
